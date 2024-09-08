@@ -1,0 +1,32 @@
+/* index.css */
+
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .header, .footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
+  

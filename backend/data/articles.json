@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "The Importance of Mental Health Awareness",
+    "content": "Mental health awareness is crucial for improving our understanding of psychological well-being. By reducing stigma, encouraging open discussions, and providing resources, we can help individuals who are struggling to seek the help they need.",
+    "author": "John Doe",
+    "reviews": [
+      {
+        "rating": 3,
+        "date": "2024-09-02T18:49:31.420Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Role of Exercise in Mental Health",
+    "content": "Regular physical activity is not only beneficial for physical health but also plays a significant role in improving mental health. Exercise can help reduce symptoms of depression and anxiety, improve mood, and enhance overall well-being.",
+    "author": "Firasat"
+  },
+  {
+    "id": 3,
+    "title": "How Social Media Affects Mental Health",
+    "content": "While social media can be a great tool for staying connected, excessive use can negatively impact mental health. It can lead to feelings of inadequacy, anxiety, and depression, especially when individuals compare themselves to others online.",
+    "author": "Emily Johnson"
+  },
+  {
+    "id": 4,
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "The Role of Exercise in Mental Health",
+    "content": "The mental well being is crucial in this era.",
+    "author": "Dr. Ashok",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "The Role of Exercise in Mental Health",
+    "content": "The mental well being is crucial in this era.",
+    "author": "Dr. Ashok",
+    "age": 15,
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "The Role of Exercise in Mental Health",
+    "content": "The mental well being is crucial in this era.",
+    "author": "Dr. Ashok",
+    "reviews": []
+  }
+]

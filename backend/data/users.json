@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "Om",
+    "password": "$2b$10$i6ReWOWqqLaYVMY1UIkohOjy.zz.aKjdy5W5Ale27GkwFDGZUxxXK",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "Sahajpal Singh",
+    "password": "$2b$10$KNyVPMJ003P1G5Upvc1TQOOGCgilOGHKopXJig9mbldm7nCQBsxV.",
+    "role": "doctor"
+  },
+  {
+    "id": 3,
+    "username": "Ridhima",
+    "password": "$2b$10$RQDL/tLcqkhu4A1bHuQEfOD02XU123mzMscVVIJpQioJdPp8vIFI6",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "username": "Arjun",
+    "password": "$2b$10$X3P8.naWGse9zDyI24Q31uQsbWIrA2IvKDlQVRh.xZfvmg6M/3FOC",
+    "role": "admin"
+  },
+  {
+    "id": 5,
+    "username": "Raaj",
+    "password": "$2b$10$3/vgds5RIjyxIJcHxRJ7L.F0b.uBTnMWiBzdQRdYyAalcrYFDQ/De",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "username": "Aniket Sir",
+    "password": "$2b$10$M5pKTFEsH3XeBxmasBwuPuF4smnXiNbqn1WaygQxLjTw7Qv1iH2lO",
+    "role": "admin"
+  },
+  {
+    "id": 7,
+    "username": "Karan Aujla",
+    "password": "$2b$10$39MApk1MHFxpBFdoRLQtPeue1Dwz8NGtzFlK1V20EaDNfwbJT2HbW",
+    "role": "user"
+  }
+]
